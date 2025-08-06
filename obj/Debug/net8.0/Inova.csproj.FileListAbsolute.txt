@@ -1,0 +1,9 @@
+C:\Users\Beatriz\Downloads\projeto-sistema-de-controle-de-itens-perdidos-main\projeto-sistema-de-controle-de-itens-perdidos-main\Inova\obj\Debug\net8.0\Inova.csproj.AssemblyReference.cache
+C:\Users\Beatriz\Downloads\projeto-sistema-de-controle-de-itens-perdidos-main\projeto-sistema-de-controle-de-itens-perdidos-main\Inova\obj\Debug\net8.0\Inova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beatriz\Downloads\projeto-sistema-de-controle-de-itens-perdidos-main\projeto-sistema-de-controle-de-itens-perdidos-main\Inova\obj\Debug\net8.0\Inova.AssemblyInfoInputs.cache
+C:\Users\Beatriz\Downloads\projeto-sistema-de-controle-de-itens-perdidos-main\projeto-sistema-de-controle-de-itens-perdidos-main\Inova\obj\Debug\net8.0\Inova.AssemblyInfo.cs
+C:\Users\Beatriz\Downloads\projeto-sistema-de-controle-de-itens-perdidos-main\projeto-sistema-de-controle-de-itens-perdidos-main\Inova\obj\Debug\net8.0\Inova.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz\Downloads\projeto-sistema-de-controle-de-itens-perdidos-main\projeto-sistema-de-controle-de-itens-perdidos-main\Inova\obj\Debug\net8.0\Inova.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Beatriz\Downloads\projeto-sistema-de-controle-de-itens-perdidos-main\projeto-sistema-de-controle-de-itens-perdidos-main\Inova\obj\Debug\net8.0\Inova.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beatriz\Downloads\projeto-sistema-de-controle-de-itens-perdidos-main\projeto-sistema-de-controle-de-itens-perdidos-main\Inova\obj\Debug\net8.0\Inova.RazorAssemblyInfo.cache
+C:\Users\Beatriz\Downloads\projeto-sistema-de-controle-de-itens-perdidos-main\projeto-sistema-de-controle-de-itens-perdidos-main\Inova\obj\Debug\net8.0\Inova.RazorAssemblyInfo.cs
