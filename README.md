@@ -57,7 +57,7 @@ Para replicar este ambiente localmente, siga os passos:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/biafqn/Zardon.git](https://github.com/biafqn/Zardon.git)
+   git clone [https://github.com/biafqn/Zardon.git]
 
 2.Acesse o diretório do projeto:
 ```bash
